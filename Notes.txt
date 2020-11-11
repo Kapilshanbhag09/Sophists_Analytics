@@ -1,0 +1,4 @@
+1)Create_house_pdf.py file create the pdf document with 
+name Sophists_house_analysis that consists the numbers about house and teams.
+2)Create_teams_pdf.py file creates the pdf document with name 
+Sophists_teams_analysis that consists the numbers about teams and individual members.
